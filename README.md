@@ -22,7 +22,7 @@ AWS | Azure | GCP | Docker | Kubernetes | Helm | Terraform | Ansible | GitOps | 
 
 📂 GitHub: [github.com/arefin1322](https://github.com/arefin1322/)
 
-🌐 Portfolio: [arefin1322.github.io](https://arefin1322.github.io/)
+🌐 Portfolio: [arefin1322.github.io](https://arefin1322.github.io/arefin1322)
 
 
 
