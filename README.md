@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**arefin1322/arefin1322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Faisal Arifin
+Cloud-Native DevOps · SRE · Platform Engineer
+Berlin, Germany
 
-Here are some ideas to get you started:
+Experience: AWS | Azure | GCP | Kubernetes | Terraform | GitOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 Email: arefin1322@gmail.com
+💼 LinkedIn: [linkedin.com/in/md-faisal-arifin-33867080] (https://linkedin.com/in/md-faisal-arifin-33867080/)
+🟢 XING: [xing.com/profile/MdFaisal_Arifin] (https://www.xing.com/profile/MdFaisal_Arifin)
+📂 GitHub: [github.com/arefin1322] (https://github.com/arefin1322/)
+🌐 Portfolio: [arefin1322.github.io] (https://arefin1322.github.io/)
+
+
+
